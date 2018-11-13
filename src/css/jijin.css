@@ -1,0 +1,17 @@
+.jijin{
+    width: 300px;
+    height: 300px;
+    margin:  0 auto;
+    background-color: #ccc;
+    border-radius: 30px;
+    
+
+    
+}
+.jijin p{
+    padding: 10px;
+    float: left;
+    background-color: rgb(202, 228, 56);
+    margin: 10px ;
+    border-radius: 30px;
+}
